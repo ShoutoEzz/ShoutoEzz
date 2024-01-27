@@ -12,7 +12,7 @@
 - ⚡ Fait amusant **RS3 Lover**
 
 <div> <a href="https://twitter.com/ShoutoSurX" target="_blank"><img src="https://img.shields .io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://github.com/ShoutoEz" target="_blank "><img src="https://camo.githubusercontent.com/6d0b551640d79cf24b1d11dbd1d48fadb12a38c1e519fe89bdadb3fa11525f46/68747470733a2f2f76696e63656e742d79616f32372e6769746875622e696f2f70682d69636f6e2d67656e2f6769742e706e67" target="_blank"></a>
+<a href="https://github.com/ShoutoEz" target="_blank "><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/Shoutoreal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" cible ="_blank"></a>
 </div> <h3 align="left">Venez Me Follow :</h3>
 <p align="left">
