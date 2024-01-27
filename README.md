@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<source src="https://auto.creavite.co/api/out/GDF1TLXOEN0ts7xkd6_standard.mp4" width="100%" />
 <p align="left"> <img src="https : //komarev.com/ghpvc/?username=ShoutoEz&label=Profile%20views&color=0e75b6&style=flat" alt="ShoutoEz" /> </p>
 
 <p align="left"> <a href="https://github .com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShoutoEz&theme=matrix" alt="ShoutoEz" /></a > </p>
