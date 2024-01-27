@@ -17,7 +17,7 @@
 </div> <h3 align="left">Venez Me Follow :</h3>
 <p align="left">
 <a href="https://twitter.com/ShoutoSurX" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ShoutoSurX" hauteur ="30" width="40" /></a> 
-<a href="https://www.youtube.com/c/Shouto" target="blank"><img align="center"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAxZBDoayKXZi6jytEkMrq6h2O313QyqcVWctQ5QIhw&s" alt="Shouto" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/c/Shouto" target="blank"><img align="center"src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-White-Dark-Background-Logo.wine.svg" alt="Shouto" height="30" width="40" /></a> 
 <a href ="https://instagram.com/Shoutoreal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24874033/39674914-011fd850-5171-11e8-82b5-01e8613114cf.png" alt="Shoutoreal" height="30" width="40" /></a> </p>
 
 <h3 align="left">Langues et outils :</h3>
