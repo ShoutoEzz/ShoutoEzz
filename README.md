@@ -170,8 +170,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
 </p>
 
-<h3 align="left">Étoiles</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top- langs/?username=ShoutoEz&layout=compact&theme=tokyonight" alt=ShoutoEz />
+
 
 <p> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/ api?username=ShoutoEz&show_icons=true&locale=en&theme=highcontrast" alt="ShoutoEz" /></p>
 
