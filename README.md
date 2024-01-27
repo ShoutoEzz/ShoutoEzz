@@ -1,4 +1,4 @@
-<source src="https://auto.creavite.co/api/out/GDF1TLXOEN0ts7xkd6_standard.mp4" width="100%" />
+<img src="https://auto.creavite.co/api/out/GDF1TLXOEN0ts7xkd6_standard.mp4" width="100%" />
 <p align="left"> <img src="https : //komarev.com/ghpvc/?username=ShoutoEz&label=Profile%20views&color=0e75b6&style=flat" alt="ShoutoEz" /> </p>
 
 <p align="left"> <a href="https://github .com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShoutoEz&theme=matrix" alt="ShoutoEz" /></a > </p>
@@ -16,7 +16,7 @@
 <a href=" https://instagram.com/Shoutoreal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" cible ="_blank"></a>
 </div> <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://twitter.com/ ShoutoSurX" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ShoutoSurX" hauteur ="30" width="40" /></a> <a href="https://www.youtube.com/c/Shouto" target="blank"><img align="center" src=" https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Shouto" height="30" width="40" /></a> <a href ="https://instagram.com/Shoutoreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/ Instagram.svg" alt="Shoutoreal" height="30" width="40" /></a> </p>
+<a href="https://twitter.com/ ShoutoSurX" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ShoutoSurX" hauteur ="30" width="40" /></a> <a href="https://www.youtube.com/c/Shouto" target="blank"><img align="center" src=" https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="Shouto" height="30" width="40" /></a> <a href ="https://instagram.com/Shoutoreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/Instagram.svg" alt="Shoutoreal" height="30" width="40" /></a> </p>
 
 <h3 align="left">Langues et outils :</h3>
 <p align="left" >
