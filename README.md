@@ -5,12 +5,12 @@
 
 <p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoutoezz" alt="shoutoezz" /></a > </p>
 
-<p align="left"> <a href="https://twitter.com/shoutosurx" target="blank"><img src="https://img.shields.io/twitter /follow/shoutosurx?logo=twitter&style=for-the-badge" alt="shoutosurx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@shoutosurx" target="blank"><img src="https://img.shields.io/twitter /follow/shoutosurx?logo=twitter&style=for-the-badge" alt="shoutosurx" /></a> </p>
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align= "gauche">
-<a href="https://twitter.com/shoutosurx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoutosurx" height="30" width="40" /></a>
-<a href="https://instagram .com/shoutoreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /instagram.svg" alt="shoutoreal" height="30" width="40" /></a>
+<a href="https://twitter.com/@shoutosurx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoutosurx" height="30" width="40" /></a>
+<a href="https://instagram.com/@shoutoreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /instagram.svg" alt="shoutoreal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shouto" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shouto" height="30" width="40" /></a>
 </p>
 
