@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://github .com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShoutoEz&theme=matrix" alt="ShoutoEz" /></a > </p>
 
 - 🔭 Je travaille actuellement sur **Menu Fortnite**
-- 👯 Je cherche à collaborer sur **PornHub**
-- 🤝 Je cherche de l'aide pour **RIEN**
-- 🌱 J'apprends actuellement * *Rien**
+- 👯 Je collabore sur **PornHub Avec Ta Maman**
+- 🤝 Je Suis Là pour **Bz Ta soeur**
+- 🌱 Vehicule **RS3+M2C**
 
 
 - ⚡ Fait amusant **RS3 Lover**
@@ -17,10 +17,10 @@
 </div> <h3 align="left">Venez Me Follow :</h3>
 <p align="left">
 <a href="https://twitter.com/ShoutoSurX" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ShoutoSurX" hauteur ="30" width="40" /></a> 
-<a href="https://www.youtube.com/c/Shouto" target="blank"><img align="center"src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-White-Dark-Background-Logo.wine.svg" alt="Shouto" height="30" width="40" /></a> 
+<a href="https://www.youtube.com/c/Shouto" target="blank"><img align="center"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAxZBDoayKXZi6jytEkMrq6h2O313QyqcVWctQ5QIhw&s" alt="Shouto" height="30" width="40" /></a> 
 <a href ="https://instagram.com/Shoutoreal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/24874033/39674914-011fd850-5171-11e8-82b5-01e8613114cf.png" alt="Shoutoreal" height="30" width="40" /></a> </p>
 
-<h3 align="left">Langues et outils :</h3>
+<h3 align="left">Langues de code et outils utilisé :</h3>
 <p align="left" >
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unity3d-icon.svg" alt="Unity" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unreal-engine.svg" alt="Unreal Engine" width="40" height="40 "/>
